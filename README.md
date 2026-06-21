@@ -1,6 +1,6 @@
 ### Hola 👋, Soy Eduardo Esparza
 #### Soy Ingeniero en Sistemas Computacionales, actualmente trabajo en Accenture Merida, Yucatan como Transformation Security Analyst
-![Soy Ingeniero en Sistemas Computacionales](https://agenciawinners.com/wp-content/uploads/2020/07/desarrollo-web.png)
+![Soy Ingeniero en Sistemas Computacionales]([https://agenciawinners.com/wp-content/uploads/2020/07/desarrollo-web.png](https://www.segurilatam.com/ciberilatam/ciberseguridad-ciberilatam/mexico-crea-la-direccion-general-de-ciberseguridad_20250129.html))
 
 Me gusta la ciberseguridad, actualmente tengo conocimientos en IAM, Firewall, MFA, Antispam, Vulnerabilidades.
 
